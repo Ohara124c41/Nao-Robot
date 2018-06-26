@@ -15,8 +15,8 @@ Programming on Aldebaran Robotics Nao Robot
 
 #### Employing Landmark (Target) Detection
 ![](https://github.com/Ohara124c41/Nao-Robot/blob/master/visualizations/land01.gif?raw=true)
-![](https://github.com/Ohara124c41/Nao-Robot/blob/master/visualizations/land01.gif?raw=true)
+![](https://github.com/Ohara124c41/Nao-Robot/blob/master/visualizations/land02.gif?raw=true)
 
-#### Employing Obsticle Avoidance
+#### Employing Obstacle Avoidance
 ![](https://github.com/Ohara124c41/Nao-Robot/blob/master/visualizations/obs01.gif?raw=true)
-![](https://github.com/Ohara124c41/Nao-Robot/blob/master/visualizations/obs01.gif?raw=true)
+![](https://github.com/Ohara124c41/Nao-Robot/blob/master/visualizations/obs02.gif?raw=true)
